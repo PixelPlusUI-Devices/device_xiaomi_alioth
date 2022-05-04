@@ -14,11 +14,8 @@ WITH_GAPPS := true
 TARGET_INCLUDE_WIFI_EXT := true
 TARGET_BOOT_ANIMATION_RES := 1440
 
-# PixelPlusUI Official Stuff
-CUSTOM_BUILD_TYPE := OFFICIAL
-
 # PixelPlusUI Maintainer Flags
-PPUI_MAINTAINER := johnmart19
+PPUI_MAINTAINER := EmanuelCN
 
 # Supported Device Flags
 IS_PHONE := true
